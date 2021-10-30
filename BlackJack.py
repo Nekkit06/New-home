@@ -187,3 +187,4 @@ class BJ_Hand(cards.Hand):
             rep += "(" + str(self.total) + ")"
         return rep  
         
+#[c] Nekkit06
